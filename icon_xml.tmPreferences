@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- 
+    This file doesn't seem to set the xml icon, however the icon called 
+    file_type_markup.png does. I'm leaving this file here just in case another
+    type of xml file needs it.
+-->
 <plist version="1.0">
 <dict>
     <key>scope</key>
